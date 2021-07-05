@@ -31,6 +31,6 @@ MHLW_discussions
 本テキストデータは、[政府標準利用規約 2.0](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/hansen/sinseien/2016-pdf/t-20.pdf)および[著作権法30条の4](https://elaws.e-gov.go.jp/document?lawid=345AC0000000048#Mp-At_30_4)
 に従い、機械学習・統計などの目的のために公開しております。法的適合性については利用者の責任でご判断ください。
 
-このデータは、厚生労働省のWebサイトで公開されている、同省が主催した審議会の議事録および記者会見のテキストを、本サイトのスクリプト等によって加工されたデータです。
+このデータは、厚生労働省のWebサイトで公開されている、同省が主催した審議会の議事録および記者会見のテキストを、このサイトで公開しているスクリプト等により加工したデータです。
 収集の対象となった文書のURLの一覧は[urllist.txt](https://raw.githubusercontent.com/hayato-hashimoto/MHLW-discussions-corpus/main/urllist.txt)に記載されています。
 
